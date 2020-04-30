@@ -25,5 +25,10 @@ This will allow you to better see how the Burger Ordering Application works.
 * Backend API calls
 * Handlebars Templates and Layouts
 * MySQL
+* NPM Packages 
++ mysql@2.18.1
++ body-parser@1.19.0
++ express-handlebars@4.0.4
++ express@4.17.1
 
 # Burger Ordering Application - Made by Muhammad Ali.
