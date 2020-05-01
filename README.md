@@ -1,4 +1,4 @@
-## Burger Ordering Application
+## Eat-Da-Burger!
 A Node, Express, Handlebars, and MySQL burger app that lets users input the names of burgers they'd like to eat... and then devour them! Please check out the launched app on Heroku!
 
 
@@ -11,7 +11,7 @@ This will allow you to better see how the Burger Ordering Application works.
 
 
 ## DEMO:
-![Screen shot]()
+![Screen shot](Coming Soon!)
 
 
 ## Technologies & Concepts Used:
