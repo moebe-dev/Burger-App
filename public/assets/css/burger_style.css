@@ -1,10 +1,3 @@
-/*@font-face {font-family: "Uber Move Text"; src: url("//db.onlinewebfonts.com/t/11469c307f0de6481e3a04cc5d54ae93.eot"); 
-  src: url("//db.onlinewebfonts.com/t/11469c307f0de6481e3a04cc5d54ae93.eot?#iefix") format("embedded-opentype"), 
-  url("//db.onlinewebfonts.com/t/11469c307f0de6481e3a04cc5d54ae93.woff2") 
-  format("woff2"), url("//db.onlinewebfonts.com/t/11469c307f0de6481e3a04cc5d54ae93.woff") 
-  format("woff"), url("//db.onlinewebfonts.com/t/11469c307f0de6481e3a04cc5d54ae93.ttf") format("truetype"), 
-  url("//db.onlinewebfonts.com/t/11469c307f0de6481e3a04cc5d54ae93.svg#Uber Move Text") format("svg");}*/
-
 .jumbotron {
   background-image: url("../img/burgerpic2.png");
   background-repeat: no-repeat;
@@ -12,12 +5,12 @@
   background-color: light;
   color: black;
   margin-top: 3%;
-  font-family: "Uber Move Text", "sans-serif";
+  font-family: "sans-serif";
 }
 
 #newburger {
   color: black;
-  font-family:"Uber Move Text";
+  font-family: "sans-serif";
 }
 
 #leftside {
@@ -25,7 +18,7 @@
   color: whitesmoke;
   text-align: center;
   font-size: 1.3em;
-  font-family:"Uber Move Text";
+  font-family: "sans-serif";
 }
 
 #rightside {
@@ -33,5 +26,5 @@
   color: whitesmoke;
   text-align: center;
   font-size: 1.3em;
-  font-family:"Uber Move Text";
+  font-family: "sans-serif";
 }
