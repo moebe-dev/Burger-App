@@ -1,7 +1,7 @@
 {
   "name": "burger-app",
-  "version": "1.0.0",
-  "description": "A Node, Express, Handlebars, and MySQL burger app that lets users input the names of burgers they'd like to eat... and then devour them! Please check out the launched app on Heroku!",
+  "version": "1.0.1",
+  "description": "A Node, Express, Handlebars, MySQL, and an MVC Design Pattern Burger app that lets users input the names of burgers they'd like to eat... and then devour them!",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/moebe-dev/Burger-App.git"
   },
-  "author": "",
+  "author": "Muhammad Ali",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/moebe-dev/Burger-App/issues"
